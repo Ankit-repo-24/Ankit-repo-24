@@ -4,22 +4,24 @@
 ---
 
 ### 🛠️ Tools & IDEs I Use
-- Visual Studio Code  
-- Git & GitHub  
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+</p>
 
 ---
 
 ### 💻 Programming Languages
-- **C, C++, Java**  
-- **HTML, CSS, JavaScript**  
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js" />
+</p>
 
 ---
 
 ### 📘 Computer Science Concepts
-- Operating System (OS)  
-- Object Oriented Programming (OOPs)  
-- Software Engineering  
-- Compiler Design  
+✔️ Operating System (OS)  
+✔️ Object Oriented Programming (OOPs)  
+✔️ Software Engineering  
+✔️ Compiler Design  
 
 ---
 
@@ -45,5 +47,11 @@
 ---
 
 ### 📫 Connect with Me
-- **Email**: [mishraankit24x@gmail.com](mailto:mishraankit24x@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/mishraankit24x](https://www.linkedin.com/in/mishraankit24x)  
+<p align="left">
+  <a href="mailto:mishraankit24x@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mishraankit24x" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
